@@ -1,0 +1,17 @@
+{
+  "name": "hotel_estrella_webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "dev":"nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
